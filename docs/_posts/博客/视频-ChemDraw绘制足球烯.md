@@ -1,0 +1,21 @@
+---
+title: ChemDraw绘制足球烯
+date: 2019-10-25 23:29:18
+categories: 软件分享
+tags: 
+  - ChemDraw
+  - 足球烯
+  - 视频教程
+thumbnail: https://cdn.jsdelivr.net/gh/mcmohen/ImageHosting/mcmohen_imgtimg.jpg
+permalink: /pages/c4ae80/
+sidebar: auto
+author: 
+  name: NWUzmed
+  link: https://github.com/nwuzmedoutlook/
+---
+
+1分钟：教你用ChemDraw绘制足球烯，操作简单，一看就明白！
+
+<!--more-->
+
+<iframe src="//player.bilibili.com/player.html?aid=286717316&bvid=BV18f4y197cc&cid=222100575&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="520" width="810"> </iframe>

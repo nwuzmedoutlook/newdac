@@ -1,0 +1,21 @@
+---
+title: 3ds Max绘制钙钛矿
+date: 2020-08-27 23:29:18
+categories: 软件分享
+tags: 
+  - 3ds Max
+  - 钙钛矿
+  - 视频教程
+thumbnail: https://cdn.jsdelivr.net/gh/mcmohen/ImageHosting/mcmohen_imgtimg.jpg
+permalink: /pages/b3d9ef/
+sidebar: auto
+author: 
+  name: NWUzmed
+  link: https://github.com/nwuzmedoutlook/
+---
+
+10分钟：3ds Max初学者教你使用另类方法绘制钙钛矿，操作简单，一看就明白！
+
+<!--more-->
+
+<iframe src="//player.bilibili.com/player.html?aid=841931411&bvid=BV1F54y1v7GF&cid=229586134&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="520" width="810"> </iframe>

@@ -1,0 +1,53 @@
+---
+title: Hexo教程和常用命令
+mathjax: true
+categories: 
+  - 网络技术
+tags: 
+  - Hexo
+  - 命令
+date: 2019-08-09 20:03:18
+permalink: /pages/fd33f9/
+sidebar: auto
+author: 
+  name: NWUzmed
+  link: https://github.com/nwuzmedoutlook/
+---
+
+欢迎来到NWUzmed的[Hexo](https://hexo.io/)!这是一个基本教程. 按这里 $ \to $ [documentation](https://hexo.io/docs/) 了解更多资讯.如果你有问题,来这里找答案 $ \to $ [troubleshooting](https://hexo.io/docs/troubleshooting.html) 或来GitHub上找 $ \to $ [GitHub](https://github.com/hexojs/hexo/issues).
+
+<!-- more -->
+
+## 快速入门
+
+1. ### 新建一篇文章
+
+``` bash
+$ hexo new "My New Post"
+```
+
+More info: [Writing](https://hexo.io/docs/writing.html)
+
+2. ### 运行本地服务器
+
+``` bash
+$ hexo server
+```
+
+More info: [Server](https://hexo.io/docs/server.html)
+
+3. ### 渲染本地文件
+
+``` bash
+$ hexo generate
+```
+
+More info: [Generating](https://hexo.io/docs/generating.html)
+
+4. ### 上传
+
+``` bash
+$ hexo deploy
+```
+
+More info: [Deployment](https://hexo.io/docs/deployment.html)

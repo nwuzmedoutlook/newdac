@@ -1,0 +1,129 @@
+---
+title: Markdown语法初次尝试
+catalog: ture
+date: 2020-04-14 17:35:00
+subtitle: null
+top: false
+tags: 
+  - Markdown
+  - 标记语言
+categories: 
+  - 网络技术
+thumbnail: https://cdn.jsdelivr.net/gh/mcmohen/ImageHosting/mcmohen_imgmcmohen_imgteacher.jpg
+permalink: /pages/a8e59c/
+sidebar: auto
+author: 
+  name: NWUzmed
+  link: https://github.com/nwuzmedoutlook/
+---
+第一次尝试用Markdown代码发布，也不知道写什么好，胡乱拼凑了一些内容。第一次尝试用Markdown代码发布，也不知道写什么好，胡乱拼凑了一些内容。第一次尝试用Markdown代码发布，也不知道写什么好，胡乱拼凑了一些内容。
+
+<!-- more -->
+
+# 一只菜鸟的无聊生活
+## ZMED
+### 代码高亮
+#### Python
+```python
+@requires_authorization 
+def somefunc（paraml=''，param2=0）：
+   '''A docstring'''
+if paraml>param2：#interesting
+   print'Greater'
+return（param2-param1+1）or 
+None 
+class SomeClass：
+   pass
+>>>message='''interpreter
+...prompt'''
+```
+### To-do-list
+- [x] 早饭
+  - [x] 包子
+  - [x] 稀饭
+- [x] 午饭
+  - [x] 米饭
+- [x] 待办事项
+  - [x] 晚饭
+#### 流程图
+```
+graph TD
+   A[新冠疫情]-->B(寒假延长)
+   B-->C{生活单调}
+   C-->|0ne| D[吃饭]
+   C-->|Two| E[睡觉]
+   C-->|Three| F[搞毕设]
+```
+#### 序列图
+```
+sequenceDiagram 
+   loop every day 
+   Alice->>John:Hello John,how are you?
+   John-->>Alice:Great!
+   end
+```
+---
+```
+gantt 
+dateFormat YYYY-MM-DD
+title 毕业设计安排
+section 初期阶段
+文献调研:2016-03-01,10d
+section 中期阶段
+写作&设计:2016-03-11,15d
+section 后期阶段
+修改&答辩:2016-03-20,9d
+```
+
+### 表格
+|种类|单价|数量|总价|
+|----|----|----|----|
+|土豆|2.0 |5   |10  |
+|鸡蛋|2.5 |10  |25  |
+|芹菜|4.0 |5   |20  |
+
+
+## Mathematical formula `$y = x^2$`
+
+Inline math: `$\dfrac{\tfrac{1}{2}[1-(\tfrac{1}{2})^n] }{1-\tfrac{1}{2} } = s_n$`.
+
+Math block:
+
+```math
+\oint_C x^3\, dx + 4y^2\, dy
+
+2 = \left(\frac{\left(3-x\right) \times 2}{3-x}
+\right)
+
+\sum_{m=1}^\infty\sum_{n=1}^\infty\frac{m^2\,n}
+{3^m\left(m\,3^n+n\,3^m\right)}
+
+\phi_n(\kappa)=
+ \frac{1}{4\pi^2\kappa^2} \int_0^\infty
+ \frac{\sin(\kappa R)}{\kappa R}
+ \frac{\partial}{\partial R}
+ \left[R^2\frac{\partial D_n(R)}{\partial 
+R}\right]\,dR
+```
+#### 无序列表
+- 列表1
+    - 列表1.1
+    - 列表1.2
+
+#### 有序列表
+1. 列表1
+    1. 列表1.1
+    2. 列表1.2
+2. 列表2
+3. 列表3
+
+###### 引用
+> 追求，源于热爱！——魅族科技
+
+*这是斜体字*
+
+**这是粗体字**
+#### 注意：符号与文本之间无需空格
+
+#### 插入链接
+[中国知网](https://www.cnki.net/)

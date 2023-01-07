@@ -1,0 +1,99 @@
+---
+title: GrafEq：小巧但强大的作图工具
+top: false
+cover: false
+toc: true
+mathjax: true
+date: 2020-05-5
+password: null
+tags: 
+  - 数学
+  - GrafEq
+  - 函数曲线
+categories: 
+  - 软件分享
+thumbnail: https://cdn.jsdelivr.net/gh/mcmohen/ImageHosting/mcmohen_imgmcmohen_imgteacher.jpg
+permalink: /pages/4cfea8/
+sidebar: auto
+author: 
+  name: NWUzmed
+  link: https://github.com/nwuzmedoutlook/
+---
+今天分享一款作图工具，它叫GrafEq，目前最新版本号为2.13，可以免费下载并使用。Grafeq是一个直观、灵活、精确、全面的隐函数以及不等式绘图软件，界面简单很容易操作。虽然这款软件只有2M大小，但是在二维作图功能上可以吊打Mathematica、Maple、Matlab、Origin等软件。
+
+<!-- more -->
+
+> 关注公众号【钚止科技】，共享每日黑科技！
+
+![](https://i.loli.net/2020/04/29/DNG8avwcgWlVTt6.png)
+作为一个资源搜索爱好者，前几天无意发现了一款小巧但强悍的作图软件，今天将我用它做的40多张图像及安装包（下载链接见文末）分享给大家。
+首先简单介绍一下这个工具，它叫GrafEq，目前最新版本号为2.13，可以免费下载并使用。Grafeq是一个直观、灵活、精确、全面的隐函数以及不等式绘图软件，界面简单很容易操作。虽然这款软件只有2M大小，但是在二维作图功能上可以吊打Mathematica、Maple、Matlab、Origin等软件。
+![](https://s1.ax1x.com/2020/05/05/Yk98jU.png)
+废话不多说，下面直接给出我用Grafeq绘制的各种图像（原函数来自网络搜集，部分经过改造）。
+#### Butterfly curve（蝴蝶曲线）
+![](https://i.loli.net/2020/05/05/1zEakOTXHoBcdeZ.png)
+#### Ceiling pattern（天花彩画）
+![](https://s1.ax1x.com/2020/05/05/YkSpKe.png)
+#### Fermat Spiral（费马螺线）
+![](https://s1.ax1x.com/2020/05/05/YkSrPx.png)
+#### Peanut curve（花生曲线）
+![YkSjds.png](https://s1.ax1x.com/2020/05/05/YkSjds.png)
+#### Chinese knot（中国结）
+![](https://s1.ax1x.com/2020/05/05/YkP5nS.png)
+### “心”形曲线
+![](https://s1.ax1x.com/2020/05/05/YkpAeJ.png)
+![](https://s1.ax1x.com/2020/05/05/YkpmJx.png)
+![](https://s1.ax1x.com/2020/05/05/YkCqsO.png)
+![](https://s1.ax1x.com/2020/05/05/YkCvod.png)
+![](https://s1.ax1x.com/2020/05/05/YkPpWt.png)
+![](https://s1.ax1x.com/2020/05/05/YkPVoj.png)
+![](https://s1.ax1x.com/2020/05/05/YkPaSx.png)
+![](https://s1.ax1x.com/2020/05/05/YkPDmD.png)
+### “花”形曲线
+![](https://s1.ax1x.com/2020/05/05/Ykprwj.png)
+![](https://s1.ax1x.com/2020/05/05/YkCurD.png)
+![](https://s1.ax1x.com/2020/05/05/YkClad.png)
+### 不知名函数图像
+![](https://i.loli.net/2020/05/05/k15YIClPaKr3N4y.png)
+![](https://i.loli.net/2020/05/05/IQGPCzbmDshu9l8.png)
+![](https://i.loli.net/2020/05/05/r67XgKFxLVNcioZ.png)
+![](https://i.loli.net/2020/05/05/gI9iMWe7LnxqvFa.png)
+![](https://i.loli.net/2020/05/05/haDpEQXGW7vYu4m.png)
+![](https://i.loli.net/2020/05/05/ab7xnPOVMgo4hyI.png)
+![](https://i.loli.net/2020/05/05/QXgaZRihl7Lespt.png)
+![](https://i.loli.net/2020/05/05/YDKXdUnjsBHiqAf.png)
+![](https://i.loli.net/2020/05/05/Q2XrztCmalSHc9Y.png)
+![](https://i.loli.net/2020/05/05/Ov5WdNmHTFzJeyR.png)
+### 据说是太极图，但好像不太对劲
+![](https://i.loli.net/2020/05/05/uPvdzhQXiZN6YaR.png)
+#### 下面是根据“太极八卦图”改造的图像
+![](https://i.loli.net/2020/05/05/U8WJskj6Y9Gw52A.png)
+![](https://i.loli.net/2020/05/05/TqRZtO2gHpjkADy.png)
+![](https://i.loli.net/2020/05/05/PcwKR59CNmgATGz.png)
+![](https://i.loli.net/2020/05/05/AHCPsUTtGJKVLZ5.png)
+![](https://i.loli.net/2020/05/05/iMRFS579KbPVL1f.png)
+![](https://i.loli.net/2020/05/05/5WYqTw2eZfC3Fni.png)
+### 原创曲线
+![](https://i.loli.net/2020/05/05/o3wrR5QxPY1NztE.png)
+![](https://s1.ax1x.com/2020/05/05/YkpKSK.png)
+![](https://s1.ax1x.com/2020/05/05/YkpGTA.png)
+![](https://s1.ax1x.com/2020/05/05/YkCYxf.png)
+### 不宜放图，自行尝试
+![](https://i.loli.net/2020/05/11/amckpVLnBlQzu5R.png)
+![](https://i.loli.net/2020/05/11/zXmOMflVFHqDbhU.png)
+![](https://i.loli.net/2020/05/11/iTbGyBHEpjAx3eo.png)
+看了这么多精美的曲线，是不是觉得Grafeq很厉害呢？其实这个软件也有明显的缺点，比如：
+1. 只是呈现结果，无法做进一步的数据分析。
+2. 无法绘制三维立体图像。如下是两个三维图像方程在该软件中呈现的样子，本应该是”面包“与”空竹“，现在却只能以平面显示。
+![](https://s1.ax1x.com/2020/05/05/YkiPhR.png)
+![](https://s1.ax1x.com/2020/05/05/YkPRpt.png)
+3. 无法绘制分段函数、参数方程、迭代方程等曲线。
+4. 坐标轴无法编辑，只能在作图之前简单规定定义域和值域，需要后期加工。
+
+这款软件小巧灵活，可以作为大家探索趣味函数图像的金钥匙，当然也可以用在科研学习中。[官网](http://www.peda.com/grafeq/gallery.html)还有很多美丽炫酷的图线，也都有原函数，在此我附上软件下载地址和以上所有图像合集，大家快去尝试吧!
+[GrafEq 2.13下载](http://www.peda.com/download/)
+[GrafEq精美曲线打包下载](https://lanzous.com/icapw8h)
+> 每日歌曲分享之《离人未归》
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27927044&auto=1&height=66"></iframe>
+
+闭上眼画面回到从前湛蓝色的大海，你转身对我浅笑微风轻轻吹动裙摆。
