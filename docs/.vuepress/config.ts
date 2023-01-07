@@ -314,7 +314,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           repo: 'newdac-comments', // GitHub 仓库
           owner: 'nwuzmedoutlook', // GitHub仓库所有者
           admin: ['nwuzmedoutlook'], // 对仓库有写权限的人
-          proxy: 'http://pigass.cn/proxy/https://github.com/login/oauth/access_token',
+          proxy: 'https://relaxed-daffodil-c314b5.netlify.app/github_access_token',
           // distractionFreeMode: true,
           pagerDirection: 'last', // 'first'正序 | 'last'倒序
           id: '<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>', //  页面的唯一标识,长度不能超过50
