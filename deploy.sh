@@ -17,7 +17,7 @@ npm run build
 # 进入生成的文件夹
 cd $dist_path
 
-echo 'ccus.cf' > CNAME
+echo ';' > CNAME
 git init
 git add -A
 git commit -m "deploy, $commit_info"
