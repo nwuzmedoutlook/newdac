@@ -10,7 +10,6 @@ push_addr=git@github.com:nwuzmedoutlook/newdac.git
 commit_info=`git describe --all --always --long`
 dist_path=docs/.vuepress/dist # 打包生成的文件夹路径
 push_branch=gh-pages # 推送的分支
-echo 'ccus.cf' > CNAME # // 域名替换成你的
 
 # 生成静态文件
 npm run build
@@ -18,6 +17,7 @@ npm run build
 # 进入生成的文件夹
 cd $dist_path
 
+echo 'ccus.cf' > CNAME
 git init
 git add -A
 git commit -m "deploy, $commit_info"
