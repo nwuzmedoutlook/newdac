@@ -240,7 +240,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       },
     ],
 
-    import { UserPlugins } from 'vuepress/config'
+    import ( UserPlugins ) from 'vuepress/config'
 plugins: <UserPlugins>[
     [
     	{
