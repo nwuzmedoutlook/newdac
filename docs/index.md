@@ -11,7 +11,7 @@ features: # 可选的
   - title: CO2
     details: CO2等前端技术
     link: /CO2/ # 可选
-    imgUrl: https://s1.ax1x.com/2023/01/14/pSMBaF0.png # 可选
+    imgUrl: https://s1.ax1x.com/2023/01/14/pSMBvp8.png # 可选
   - title: 奇趣
     details: 奇趣相关技术
     link: /interest/
