@@ -11,15 +11,15 @@ features: # 可选的
   - title: CO2
     details: CO2等前端技术
     link: /CO2/ # 可选
-    imgUrl: https://s1.ax1x.com/2023/01/14/pSMdHwq.jpg # 可选
+    imgUrl: https://s1.ax1x.com/2023/01/14/pSMBaF0.png # 可选
   - title: 奇趣
     details: 奇趣相关技术
     link: /interest/
-    imgUrl: https://s1.ax1x.com/2023/01/14/pSMdOYT.jpg
+    imgUrl: https://s1.ax1x.com/2023/01/14/pSMBdYV.png
   - title: 技术
     details: 技术文档、教程、技巧、总结等文章
     link: /technology/
-    imgUrl: https://s1.ax1x.com/2023/01/14/pSMdvpF.png
+    imgUrl: https://s1.ax1x.com/2023/01/14/pSMBwWT.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
