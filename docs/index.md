@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 𝕹𝖂𝖀𝖟𝖒𝖊𝖉'𝖘 𝖜𝖔𝖗𝖑𝖉
+heroText: 𝔑𝔚𝔘𝔷𝔪𝔢𝔡'𝔰 𝔴𝔬𝔯𝔩𝔡
 tagline: DAC知识库+结构工程师进阶之路。
 # actionText: 立刻进入 →
 # actionLink: /web/
