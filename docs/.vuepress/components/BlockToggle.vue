@@ -185,7 +185,7 @@ div[class*="language-"]::before {
   left: 4.7rem;
   font-size: 1.15em;
   color: rgba(238, 255, 255, 0.8);
-  text-transform: uppercase;
+//  text-transform: uppercase;  //取消代码块语言大写
   font-weight: bold;
   width: fit-content;
 }
