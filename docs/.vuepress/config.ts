@@ -241,11 +241,17 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       },
     ],
 
+    [
+    	{
+        	name: 'custom-plugins',
+        	globalUIComponents: ["BlockToggle"] // 代码块隐藏，2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
+    	}
+    ],
 
     [
     	{
         	name: 'custom-plugins',
-        	globalUIComponents: ["Twikoo"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
+        	globalUIComponents: ["Twikoo"] // Twikoo评论，2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
     	}
     ],
     
