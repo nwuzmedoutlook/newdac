@@ -201,6 +201,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
   // 注入到页面<head>中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
   head: [
     ['link', { rel: 'icon', href: 'https://s1.ax1x.com/2023/01/06/pSA5HcF.jpg' }], //favicons，资源放在public文件夹
+    ['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],  //代码块隐藏模块
     ['script', { src: 'https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js' }],   //twikoo评论
     [
       'meta',
