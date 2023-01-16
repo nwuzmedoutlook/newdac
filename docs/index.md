@@ -8,8 +8,8 @@ tagline: DAC知识库+结构工程师进阶之路。
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: CO2
-    details: CO2等前端技术
+  - title: CO₂
+    details: CO₂等前端技术
     link: /CO2/ # 可选
     imgUrl: https://s1.ax1x.com/2023/01/14/pSMDM7R.png # 可选
   - title: 奇趣
