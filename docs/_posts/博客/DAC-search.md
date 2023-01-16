@@ -7,7 +7,7 @@ tags:
   - 网站分享
 thumbnail: https://cdn.jsdelivr.net/gh/mcmohen/ImageHosting/mcmohen_imgmcmohen_imgteacher.jpg
 date: 2022-12-20 10:50:23
-permalink: /pages/ff140b/
+permalink: /dac-search/
 sidebar: auto
 author: 
   name: NWUzmed
