@@ -25,7 +25,7 @@
             <img
               v-if="item.cardImgSrc && item.cardImgSrc != ''"
               :src="item.cardImgSrc"
-              alt="🏎"
+              alt="😎"
               class="card-nav-img"
             />
           </div>
