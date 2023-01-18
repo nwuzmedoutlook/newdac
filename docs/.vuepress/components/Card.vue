@@ -25,7 +25,7 @@
             <img
               v-if="item.cardImgSrc && item.cardImgSrc != ''"
               :src="item.cardImgSrc"
-              alt="正在加载 ..."
+              alt="🏎"
               class="card-nav-img"
             />
           </div>
