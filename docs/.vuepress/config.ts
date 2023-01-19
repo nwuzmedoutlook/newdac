@@ -205,6 +205,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     ['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],  //代码块隐藏模块
     ['script', { src: 'https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js' }],   //twikoo评论
     ['meta', { name: 'referrer', content: 'no-referrer-when-downgrade' }],  // 站点信息模块
+    ['link', { rel: 'stylesheet', href: 'https://at.alicdn.com/t/font_3077305_pt8umhrn4k9.css' }],
     [
       'meta',
       {
