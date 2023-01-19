@@ -247,6 +247,13 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     [
     	{
         	name: 'custom-plugins',
+        	globalUIComponents: ["PageInfo"] // 站点信息模块，2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
+    	}
+    ],
+    
+    [
+    	{
+        	name: 'custom-plugins',
         	globalUIComponents: ["BlockToggle"] // 代码块隐藏，2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
     	}
     ],
