@@ -140,7 +140,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       'https://fastly.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175845.jpeg',
       'https://s1.ax1x.com/2022/12/19/zL9LZV.jpg',
       'https://s1.ax1x.com/2022/12/19/zL9Hrq.jpg',
-      'https://s1.ax1x.com/2022/12/19/zqzLVO.jpg',
+      'https://s1.ax1x.com/2023/01/20/pS8v9uq.png',
       'https://s1.ax1x.com/2023/01/19/pS8szZT.png',
       'https://s1.ax1x.com/2023/01/19/pS8yPJJ.jpg',
       'https://fastly.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175846.jpeg'
