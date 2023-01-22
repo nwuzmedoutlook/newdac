@@ -12,10 +12,12 @@ export default {
     };
   },
   mounted() {
-    // 不初始化评论区的页面：frontmatter 的 comment: false 的文章页、首页、归档页、404 页面
+    // 不初始化评论区的页面：frontmatter 的 comment: false 的文章页、首页、分类、标签、归档页、404 页面
     if (
       (this.$frontmatter.comment == undefined || this.$frontmatter.comment) &&
       this.$route.path != "/" &&
+      this.$route.path != categories &&
+      this.$route.path != tags &&
       this.$route.path != archives &&
       !this.isFourZeroFour(this.$route)
     ) {
