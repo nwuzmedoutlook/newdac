@@ -12,7 +12,7 @@ export default {
     };
   },
   mounted() {
-    // 不初始化评论区的页面：frontmatter 的 comment: false 的文章页、首页、分类、标签、归档页、404 页面
+    // 不初始化评论区的页面：frontmatter 中设置了 comment: false 的页面、首页、分类页、标签页、归档页、404 页面
     if (
       (this.$frontmatter.comment == undefined || this.$frontmatter.comment) &&
       this.$route.path != "/" &&
@@ -36,15 +36,14 @@ export default {
       ) {
         return;
       }
-      // 进入首页、进入 frontmatter 的 comment: false 页面，删除评论区
+      // 进入首页、frontmatter 中设置了 comment: false 的页面，删除评论区
       if (to.path == "/" || this.getCommentByFrontmatter(to) == false) {
         this.deleteComment();
         return;
       }
-      // 初始化评论条件：来自首页，来自归档页、来自 frontmatter 的 comment: true 的文章页
+      // 初始化评论条件：来自首页，来自 frontmatter 的 comment: true 的文章页
       if (
         from.path == "/" ||
-        from.path == archives ||
         !this.getCommentByFrontmatter(from)
       ) {
         this.firstLoad
@@ -97,7 +96,7 @@ export default {
       let tk_icon = document.getElementsByClassName("tk-icon")[0];
       tk_icon ? tk_icon.click() : undefined;
     },
-    // 删除 frontmatter:comment: false 页面的数据
+    // 删除 frontmatter 中设置了 comment: false 的页面数据
     deleteComment() {
       let comment = document.getElementById("twikoo");
       comment ? comment.parentNode.removeChild(comment) : "";
