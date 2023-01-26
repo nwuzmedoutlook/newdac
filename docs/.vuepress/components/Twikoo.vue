@@ -12,12 +12,10 @@ export default {
     };
   },
   mounted() {
-    // 不初始化评论区的页面：frontmatter 中设置了 comment: false 的页面、首页、分类页、标签页、归档页、404 页面
+    // 不初始化评论区的页面：frontmatter 的 comment: false 的文章页、首页、归档页、404 页面
     if (
       (this.$frontmatter.comment == undefined || this.$frontmatter.comment) &&
       this.$route.path != "/" &&
-      this.$route.path != categories &&
-      this.$route.path != tags &&
       this.$route.path != archives &&
       !this.isFourZeroFour(this.$route)
     ) {
@@ -36,14 +34,15 @@ export default {
       ) {
         return;
       }
-      // 进入首页、frontmatter 中设置了 comment: false 的页面，删除评论区
+      // 进入首页、进入 frontmatter 的 comment: false 页面，删除评论区
       if (to.path == "/" || this.getCommentByFrontmatter(to) == false) {
         this.deleteComment();
         return;
       }
-      // 初始化评论条件：来自首页，来自 frontmatter 的 comment: true 的文章页
+      // 初始化评论条件：来自首页，来自归档页、来自 frontmatter 的 comment: true 的文章页
       if (
         from.path == "/" ||
+        from.path == archives ||
         !this.getCommentByFrontmatter(from)
       ) {
         this.firstLoad
@@ -65,7 +64,7 @@ export default {
       twikoo
         .init({
           // envId 要切换成自己的，这是评论区的 ID，一个博客只能有一个评论区 ID，用别人的评论区 ID，导致读者评论时或发送到别人的评论区里
-          envId: "https://carbonx.cf",
+          envId: "你的 envId",
           el: "#tcomment",
           // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
           // path: 'window.location.pathname', // 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
@@ -96,7 +95,7 @@ export default {
       let tk_icon = document.getElementsByClassName("tk-icon")[0];
       tk_icon ? tk_icon.click() : undefined;
     },
-    // 删除 frontmatter 中设置了 comment: false 的页面数据
+    // 删除 frontmatter:comment: false 页面的数据
     deleteComment() {
       let comment = document.getElementById("twikoo");
       comment ? comment.parentNode.removeChild(comment) : "";
