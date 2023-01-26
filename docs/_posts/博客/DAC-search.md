@@ -14,10 +14,13 @@ author:
   link: https://github.com/nwuzmedoutlook/
 ---
 
-碳索 | DAC-Search！  
+碳索 | DAC-Search！  简洁的多引擎搜索主页！https://goooogle.cf/
 
-https://goooogle.cf/
+涵盖13个常用搜索引擎、16个Google镜像、13个Google学术镜像、13个SCI-Hub镜像、6个Wikipedia镜像以及Github镜像网址，不定期更新。
 
-简洁的多引擎搜索主页，涵盖学术、社交、影音、网盘等常用搜索引擎，同时提供Google、谷歌学术、维基百科、SCI-Hub、Github等镜像网站。
+::: tip
+在下方评论框中留言反馈
+:::
 
-![](https://s1.ax1x.com/2022/12/20/zLRMjI.png)
+<!-- ![](https://s1.ax1x.com/2022/12/20/zLRMjI.png) -->
+
