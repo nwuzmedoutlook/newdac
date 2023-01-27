@@ -186,9 +186,49 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       // iconfontCssFile: '//at.alicdn.com/t/xxx.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自己添加。阿里图片库：https://www.iconfont.cn/
       icons: [
         {
+          iconClass: 'icon-bilibili',
+          title: 'B站',
+          link: 'https://www.bilibili.com/',
+        },
+        {
+          iconClass: 'icon-erji',
+          title: '网易云音乐',
+          link: 'https://music.163.com/#/playlist?id=5388663507',
+        },
+        {
+          iconClass: 'icon-zhihu',
+          title: '知乎',
+          link: 'https://www.zhihu.com/',
+        },        
+        {
+          iconClass: 'icon-douyin',
+          title: '抖音',
+          link: 'https://www.douyin.com/',
+        }, 
+        {
+          iconClass: 'icon-weibo',
+          title: '微博',
+          link: 'https://weibo.com/',
+        }, 
+        {
+          iconClass: 'icon-QQ',
+          title: '加Q群',
+          link: 'https://qq-group.cf/',
+        },          
+        {
           iconClass: 'icon-youjian',
           title: '发邮件',
           link: 'mailto:nwuzmed@outlook.com',
+        },
+        {
+          iconClass: 'icon-yuque',
+          title: '语雀',
+          link: 'https://www.yuque.com/dashboard',
+        },
+        {
+          iconClass: 'icon-csdn',
+          title: 'CSDN',
+          link: 'https://www.csdn.net/',
         },
         {
           iconClass: 'icon-github',
@@ -196,9 +236,24 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           link: 'https://github.com/nwuzmedoutlook',
         },
         {
-          iconClass: 'icon-erji',
-          title: '听音乐',
-          link: 'https://music.163.com/#/user/home?id=1326518199',
+          iconClass: 'icon-gitee',
+          title: 'Gitee',
+          link: 'https://gitee.com/NWUzmed',
+        },
+        {
+          iconClass: 'icon-facebook',
+          title: 'Facebook',
+          link: 'https://www.facebook.com/',
+        },
+        {
+          iconClass: 'icon-twitter',
+          title: 'Twitter',
+          link: 'https://twitter.com/',
+        },
+        {
+          iconClass: 'icon-shuben',
+          title: '高校课程资源',
+          link: 'https://studyhard.cf/',
         },
       ],
     },
