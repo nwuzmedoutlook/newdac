@@ -204,12 +204,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           iconClass: 'icon-douyin',
           title: '抖音',
           link: 'https://www.douyin.com/',
-        }, 
-        {
-          iconClass: 'icon-weibo',
-          title: '微博',
-          link: 'https://weibo.com/',
-        }, 
+        },  
         {
           iconClass: 'icon-QQ',
           title: '加Q群',
@@ -239,21 +234,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           iconClass: 'icon-gitee',
           title: 'Gitee',
           link: 'https://gitee.com/NWUzmed',
-        },
-        {
-          iconClass: 'icon-facebook',
-          title: 'Facebook',
-          link: 'https://www.facebook.com/',
-        },
-        {
-          iconClass: 'icon-twitter',
-          title: 'Twitter',
-          link: 'https://twitter.com/',
-        },
-        {
-          iconClass: 'icon-shuben',
-          title: '高校课程资源',
-          link: 'https://studyhard.cf/',
         },
       ],
     },
