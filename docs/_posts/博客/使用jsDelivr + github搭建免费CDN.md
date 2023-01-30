@@ -107,5 +107,5 @@ git push                      //推送至远程仓库
 
 **特别提醒：后缀名一定要加**
 
-<a href="https://mcmohen.com/" style="text-align:right;">转自Mohen's blog</a>
+<a href="https://mcmohen.top/" target="_blank" style="text-align:right;">转自Mohen's blog</a>
 <!-- &emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;转自[Mohen's blog](https://mcmohen.com/) -->
