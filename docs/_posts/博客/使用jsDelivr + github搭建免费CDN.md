@@ -1,10 +1,12 @@
 ---
-title: 使用jsDelivr + github搭建免费CDN
+title: 使用jsDelivr + Github搭建免费CDN
 date: 2019-08-19 07:45:13
 categories: 网络技术
 tags: 
   - jsDelivr
-thumbnail: https://cdn.jsdelivr.net/gh/mcmohen/ImageHosting/mcmohen_imgmcmohen_imgteacher.jpg
+  - Github
+  - 免费
+  - CDN
 permalink: /pages/f02acd/
 sidebar: auto
 author: 
@@ -12,11 +14,11 @@ author:
   link: https://github.com/nwuzmedoutlook/
 ---
 
-前言：国内加载github的资源比较慢，需要使用**CDN加速**来优化网站打开速度，于是使用jsDelivr+github搭建**免费**的CDN。
+前言：国内加载Github的资源比较慢，需要使用**CDN加速**来优化网站打开速度，于是使用jsDelivr+Github搭建**免费**的CDN。
 
 <!-- more -->
 
-> 声明：本文参考了[《jsDeliver+github使用教程》](https://www.cnblogs.com/zhsh666/p/11432956.html)
+> 声明：本文参考了[《jsDeliver+Github使用教程》](https://www.cnblogs.com/zhsh666/p/11432956.html)
 
 jsDelivr 是一个**免费开源**的 CDN 解决方案，用于帮助开发者和站长。包含 JavaScript 库、jQuery 插件、CSS 框架、字体等等 Web 上常用的**静态资源**。
 
@@ -63,7 +65,7 @@ git clone 刚才复制的仓库链接
 
 (注:进入后git bash旁会出现蓝色的master)
 
-## 3.上传资源
+## 3. 上传资源
 
 复制需要上传的资源到本地与你仓库同名的文件夹中(我的是CDN)~~(据网上说jsDeliver可以上传100M的资源)~~，在文件夹目录下右键 Git Bash Here，依次执行以下命令：
 
@@ -79,7 +81,7 @@ git push                      //推送至远程仓库
 
 
 
-## 4.发布仓库
+## 4. 发布仓库
 
 在仓库里面点击release发布
 
@@ -91,7 +93,7 @@ git push                      //推送至远程仓库
 
 其它也随便填
 
-## 5.引用资源
+## 5. 引用资源
 
 万事俱备了！
 
@@ -105,4 +107,5 @@ git push                      //推送至远程仓库
 
 **特别提醒：后缀名一定要加**
 
-&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;转自[Mohen's blog](https://mcmohen.com/)
+<a href="https://mcmohen.com/" style="text-align:right;">转自Mohen's blog</a>
+<!-- &emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;转自[Mohen's blog](https://mcmohen.com/) -->
