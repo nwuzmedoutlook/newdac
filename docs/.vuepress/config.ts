@@ -80,6 +80,17 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         ],
       },
       {
+        text: '资源',
+        link: '/resource/',
+        items: [
+          { text: '教育考试', link: '/exam/01/' },
+          { text: '文理知识', link: '/knowledge/01/' },
+          { text: '兴趣技能', link: '/skill/01/' },
+          { text: '影音娱乐', link: '/movie/01/' },
+          { text: '其他资源', link: '/others/01/' },
+        ],
+      }, 
+      {
         text: '更多',
         link: '/more/',
         items: [
