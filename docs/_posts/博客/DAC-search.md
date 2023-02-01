@@ -15,14 +15,12 @@ author:
   link: https://github.com/nwuzmedoutlook/
 ---
 
+::: tip
+你可在底部的Gitalk或Twikoo评论框中留言，我会很快收到消息提醒！
+:::
 碳索 | DAC-Search！[https://goooogle.cf/](https://goooogle.cf/
 )
 
 涵盖13个常用搜索引擎、16个Google镜像、13个Google学术镜像、13个SCI-Hub镜像、6个Wikipedia镜像以及Github镜像网址，不定期更新。
 
-::: tip
-你可在底部的Gitalk或Twikoo评论框中留言，我会很快收到消息提醒！
-:::
-
 <!-- ![](https://s1.ax1x.com/2022/12/20/zLRMjI.png) -->
-
