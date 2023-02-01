@@ -5,7 +5,8 @@ tags:
   - DAC导航
   - 学术科研
   - 网站分享
-thumbnail: https://cdn.jsdelivr.net/gh/mcmohen/ImageHosting/mcmohen_imgmcmohen_imgteacher.jpg
+  - DAC
+  - 搜索
 date: 2022-12-20 10:50:23
 permalink: /dac-search/
 sidebar: auto
