@@ -253,9 +253,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     footer: {
       createYear: 2016, // 博客创建年份
       copyrightInfo:
-        'NWUzmed | <a href="https://github.com/nwuzmedoutlook/newdac/blob/main/LICENSE" target="_blank">MIT License</a> | <a href="https://icp.gov.moe/?keyword=20232425" target="_blank">萌ICP备20232425号</a>
-      <br>
-      <a style="margin-inline:5px" target="_blank" href="https://github.com/"><img title="本站项目由Gtihub托管" class="entered loading" src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&amp;logo=GitHub" data-ll-status="loading"></a>', // 博客版权信息、备案信息等，支持a标签或换行标签</br>
+        'NWUzmed | <a href="https://github.com/nwuzmedoutlook/newdac/blob/main/LICENSE" target="_blank">MIT License</a> | <a href="https://icp.gov.moe/?keyword=20232425" target="_blank">萌ICP备20232425号</a><br><a style="margin-inline:5px" target="_blank" href="https://github.com/"><img title="本站项目由Gtihub托管" class="entered loading" src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&amp;logo=GitHub" data-ll-status="loading"></a>', // 博客版权信息、备案信息等，支持a标签或换行标签</br>
     },
 
     // 扩展自动生成frontmatter。（当md文件的frontmatter不存在相应的字段时将自动添加。不会覆盖已有的数据。）
