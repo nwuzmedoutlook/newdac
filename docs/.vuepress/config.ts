@@ -253,12 +253,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     footer: {
       createYear: 2016, // 博客创建年份
       copyrightInfo:
-        'NWUzmed | <a href="https://github.com/nwuzmedoutlook/newdac/blob/main/LICENSE" target="_blank">MIT License</a> | <a href="https://icp.gov.moe/?keyword=20232425" target="_blank">萌ICP备20232425号</a><br>
-      <a style="margin-inline:5px" target="_blank" href="https://github.com/"><img title="本站项目由Gtihub托管" class="entered loading" src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&amp;logo=GitHub" data-ll-status="loading"></a>', // 博客版权信息、备案信息等，支持a标签或换行标签</br>
-    <a style="margin-inline:5px" target="_blank" href="https://hexo.io/"><img title="博客框架为Hexo" class="entered loading" src="https://img.shields.io/badge/Frame-Hexo-blue?style=flat&amp;logo=hexo" data-ll-status="loading"></a>
-    <a style="margin-inline:5px" target="_blank" href="https://butterfly.js.org/"><img title="主题采用butterfly" class="entered loading" src="https://img.shields.io/badge/Theme-Butterfly-6513df?style=flat&amp;logo=bitdefender" data-ll-status="loading"></a>
-    <img title="本站采用双线部署，联通线路托管于Coding" class="entered loading" src="https://img.shields.io/badge/Hosted-Coding-0cedbe?style=flat&amp;logo=Codio" data-ll-status="loading">
-    <a style="margin-inline:5px" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img title="本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可" class="entered loading" src="https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-d42328?style=flat&amp;logo=Claris" data-ll-status="loading"></a>
+        'NWUzmed | <a href="https://github.com/nwuzmedoutlook/newdac/blob/main/LICENSE" target="_blank">MIT License</a> | <a href="https://icp.gov.moe/?keyword=20232425" target="_blank">萌ICP备20232425号</a>', // 博客版权信息、备案信息等，支持a标签或换行标签
     },
 
     // 扩展自动生成frontmatter。（当md文件的frontmatter不存在相应的字段时将自动添加。不会覆盖已有的数据。）
