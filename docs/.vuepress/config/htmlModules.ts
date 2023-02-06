@@ -22,7 +22,8 @@ import { VdoingThemeConfig } from 'vuepress-theme-vdoing/types'
 const htmlModule: VdoingThemeConfig['htmlModules'] = {
   homeSidebarB:
     `<div style="padding: 0.95rem">
-    <p style="
+    <p class="iconfont icon-weixin" 
+      style="
       color: var(--textColor);
       opacity: 0.9;
       font-size: 20px;
