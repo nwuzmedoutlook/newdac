@@ -19,7 +19,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: "𝓝𝓦𝓤𝔃𝓶𝓮𝓭'𝓼 𝔀𝓸𝓻𝓵𝓭",
+      title: "𝑵𝑾𝑼𝒛𝒎𝒆𝒅'𝒔 𝒘𝒐𝒓𝒍𝒅",
       description: '提供DAC学术导航、趣味知识、网络技术、建站分享、CCUS、CO2捕集和各种网盘资源。',
     }
   },
