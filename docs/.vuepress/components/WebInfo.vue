@@ -3,8 +3,8 @@
   <div class="web-info card-box">
     <div class="webinfo-title">
       <i
-        class="iconfont icon-award"
-        style="font-size: 0.875rem; font-weight: 900; width: 1.25em"
+        class="iconfont icon-bokeyuan"
+        style="font-size: 1.2rem; font-weight: 400; width: 1.25em"
       ></i>
       <span>站点信息</span>
     </div>
@@ -216,7 +216,7 @@ export default {
   padding: 0.95rem;
 }
 .webinfo-title {
-  text-align: center;
+  text-align: left;
   color: #888;
   font-weight: bold;
   padding: 0 0 10px 0;
