@@ -29,7 +29,7 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
       font-size: 20px;
       font-weight: bold;
       margin: 0 0 8px 0;
-    ">&ensp;公众号</p>
+    ">&nbsp;公众号「达碳科技」</p>
     <img src="http://ys-n.ysepan.com/618551314/616077394/p7329742VHMLI7kpQROe69/%E5%BE%AE%E4%BF%A1%E7%BE%A4%EF%BC%88DAC%E5%AF%BC%E8%88%AA%EF%BC%89.png"  style="width:100%;" />
     回复[<b>课程资源</b>]<br>可获取 <a href="https://studyhard.cf/" target="_blank" >100+高校课程资源<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
     </p>

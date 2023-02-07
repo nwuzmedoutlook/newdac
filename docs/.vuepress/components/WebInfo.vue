@@ -212,16 +212,18 @@ export default {
 
 <style scoped>
 .web-info {
-  font-size: 20px;
+  /* font-size: 20px; */
   padding: 0.95rem;
 }
 .webinfo-title {
+  font-size: 20px;
   text-align: left;
   color: #00323c;
-  font-weight: bold;
+  font-weight: normal;
   padding: 0 0 10px 0;
 }
 .webinfo-item {
+  font-size: 16px;
   padding: 8px 0 0;
   margin: 0;
 }
