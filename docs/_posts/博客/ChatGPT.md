@@ -3,10 +3,10 @@ title: ChatGPT试玩，真有那么厉害吗？
 categories: 网络技术
 tags: 
   - OpenAI
+  - ChatGPT
   - GPT-3.5
   - 聊天机器人
   - 语言模型
-thumbnail: https://cdn.jsdelivr.net/gh/mcmohen/ImageHosting/mcmohen_imgmcmohen_imgteacher.jpg
 date: 2023-01-02 11:58:45
 permalink: /pages/14dc4c/
 sidebar: auto
