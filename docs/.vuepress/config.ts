@@ -69,6 +69,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         items: [
           { text: '基础科学', link: '/sci/10/' },
           { text: '网络技术', link: '/net/00/' },
+          { text: '趣味知识', link: '/interest/01/' },
         ],
       },
       {
@@ -96,7 +97,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         items: [
           { text: '学习', link: '/study/00/' },
           { text: '面试', link: '/interview/01/' },
-          { text: '友情链接', link: '/friends/' },
         ],
       },
       {
@@ -108,7 +108,14 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           { text: '归档', link: '/archives/' },
         ],
       },
-      { text: '关于', link: '/about/' },
+      { 
+        text: '关于', 
+        link: '/about/', 
+        items: [
+          { text: '我', link: '/me/' },
+          { text: '友链', link: '/friends/' },
+        ],      
+      },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: 'https://s1.ax1x.com/2023/01/06/pSA5HcF.jpg', // 导航栏logo
