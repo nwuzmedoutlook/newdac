@@ -110,7 +110,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       },
       { 
         text: '关于', 
-        link: '/about/', 
+        link: '/me/', 
         items: [
           { text: '我', link: '/me/' },
           { text: '友链', link: '/friends/' },
