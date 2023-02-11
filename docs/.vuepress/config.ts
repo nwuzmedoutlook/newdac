@@ -96,7 +96,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/more/',
         items: [
           { text: '学习', link: '/study/00/' },
-          { text: '面试', link: '/interview/01/' },
+          { text: '工作', link: '/job/01/' },
         ],
       },
       {
