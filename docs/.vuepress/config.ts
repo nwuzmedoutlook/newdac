@@ -125,7 +125,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     docsDir: 'docs', // 编辑的文件夹
     docsBranch: 'main', // 编辑的文件所在分支，默认master。 注意：如果你的分支是main则修改为main
     editLinks: true, // 启用编辑
-    editLinkText: '编辑',
+    editLinkText: '编辑此页',
 
     // 站点配置（首页 & 文章页）
     blogInfo: {
