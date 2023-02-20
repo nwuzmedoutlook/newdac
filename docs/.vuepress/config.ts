@@ -178,7 +178,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     // },
     // rightMenuBar: false, // 是否显示右侧文章大纲栏，默认true (屏宽小于1300px下无论如何都不显示)
     // sidebarOpen: false, // 初始状态是否打开左侧边栏，默认true
-    // pageButton: false, // 是否显示快捷翻页按钮，默认true
+    pageButton: false, // 是否显示快捷翻页按钮，默认true
 
     // 默认外观模式（用户未在页面手动修改过模式时才生效，否则以用户设置的模式为准），可选：'auto' | 'light' | 'dark' | 'read'，默认'auto'。
     // defaultMode: 'auto',
@@ -196,7 +196,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     blogger: {
       avatar: 'https://s1.ax1x.com/2023/01/06/pSAIp9K.jpg',
       name: 'NWUzmed',
-      slogan: 'Pauper who makes and collects CO₂.',
+      slogan: "A computer💻 hobbyist majoring in chemical engineering👨‍🔬.",
     },
 
     // 社交图标 (显示于博主信息栏和页脚栏。内置图标：https://doc.xugaoyi.com/pages/a20ce8/#social)
