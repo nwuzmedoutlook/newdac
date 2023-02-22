@@ -315,21 +315,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     ['cursor-effects'],  //鼠标点击特效
 
-    // [
-    //   'meting',
-    //   {
-    //      // 这个 API 是不可用的，只是作为示例而已
-    //      metingApi: 'https://api.i-meto.com/meting/api',
-    //      meting: {
-    //         auto: 'https://music.163.com/#/playlist?id=5388663507',
-    //      }, // 不配置该项的话不会出现全局播放器
-    //      aplayer: {
-    //         lrcType: 3,
-    //      },
-    //      defaultCover: 'https://nyakku.moe/avatar.jpg',
-    //   },
-    // ],
-
     [
       'vuepress-plugin-baidu-tongji', // 百度统计
       {
