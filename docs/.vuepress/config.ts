@@ -281,7 +281,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     ['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],  //代码块隐藏模块
     ['script', { src: 'https://cdn.staticfile.org/twikoo/1.6.10/twikoo.all.min.js' }],   //twikoo评论
     ['meta', { name: 'referrer', content: 'no-referrer-when-downgrade' }],  // 站点信息模块
-    ['link', { rel: 'stylesheet', href: 'https://at.alicdn.com/t/font_3077305_pt8umhrn4k9.css' }],
+    ['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],  //阿里云图标库
+
     [
       'meta',
       {
@@ -314,6 +315,13 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     'vuepress-plugin-baidu-autopush', // 百度自动推送
 
     ['cursor-effects'],  //鼠标点击特效
+
+    [
+    	{
+        	name: 'custom-plugins',
+        	clientAppRootComponentFiles: ["BlockToggle"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
+    	}
+    ], 
 
     [
       'vuepress-plugin-baidu-tongji', // 百度统计
