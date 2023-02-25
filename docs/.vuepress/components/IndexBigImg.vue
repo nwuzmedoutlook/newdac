@@ -26,7 +26,7 @@
         descFontSize: "1.4rem",
         bubble: false,
         bubblePosition: 0,
-        bubbleNum: 200,
+        bubbleNum: 0,
         fadeInInterval: "", // 淡入定时器
         fadeOutInterval: "", // 淡出定时器
       };
@@ -122,18 +122,18 @@
             this.$themeConfig.indexImg.descNextTime == undefined
               ? this.descNextTime
               : this.$themeConfig.indexImg.descNextTime;
-          this.bubble =
-            this.$themeConfig.indexImg.bubble == undefined
-              ? this.bubble
-              : this.$themeConfig.indexImg.bubble;
-          this.bubblePosition =
-            this.$themeConfig.indexImg.bubblePosition == undefined
-              ? this.bubblePosition
-              : this.$themeConfig.indexImg.bubblePosition;
-          this.bubbleNum =
-            this.$themeConfig.indexImg.bubbleNum == undefined
-              ? this.bubbleNum
-              : this.$themeConfig.indexImg.bubbleNum;
+        //   this.bubble =
+        //     this.$themeConfig.indexImg.bubble == undefined
+        //       ? this.bubble
+        //       : this.$themeConfig.indexImg.bubble;
+        //   this.bubblePosition =
+        //     this.$themeConfig.indexImg.bubblePosition == undefined
+        //       ? this.bubblePosition
+        //       : this.$themeConfig.indexImg.bubblePosition;
+        //   this.bubbleNum =
+        //     this.$themeConfig.indexImg.bubbleNum == undefined
+        //       ? this.bubbleNum
+        //       : this.$themeConfig.indexImg.bubbleNum;
         }
       },
       // 点击箭头向下滑动
