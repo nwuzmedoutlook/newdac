@@ -228,8 +228,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         },
         {
           iconClass: 'icon-erji',
-          title: '网易云音乐',
-          link: 'https://music.163.com/#/playlist?id=5388663507',
+          title: '音乐',
+          link: 'https://type-c.cf/',
         },
         {
           iconClass: 'icon-zhihu',
