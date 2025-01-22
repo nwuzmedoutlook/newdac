@@ -77,7 +77,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/technology/',
         items: [
           { text: '技术文档', link: '/tech/01/' },
-          { text: '电子文具', link: '/toy/01/' },
+          { text: '电子玩具', link: '/toy/01/' },
           { text: '软件教程', link: '/software/01/' },
         ],
       },
